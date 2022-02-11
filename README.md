@@ -3,9 +3,8 @@
 총 6개의 이름 버전을 제공하고 있습니다.
 
 기술 스택 및 배포  
-
-*:white_check_mark: html css js
-*:white_check_mark: node js express
-*:white_check_mark: heroku
+* :white_check_mark: html css js
+* :white_check_mark: node js express
+* :white_check_mark: heroku
 
 [링크] https://instagram-name.herokuapp.com/
