@@ -6,6 +6,7 @@
 기술 스택 및 배포  
 * :white_check_mark: html css js
 * :white_check_mark: node js express
+* :white_check_mark: MySQL
 * :white_check_mark: papago translate api
 * :white_check_mark: heroku
 
